@@ -11,7 +11,7 @@
 ![Screenshot_8](https://user-images.githubusercontent.com/112021178/199125372-c778add6-301b-4e23-a55b-7dd957868ae2.jpg)
 ///
 
-<h3>Versão Mobile</h3>
+<h3>Versão Mobile: </h3>
 
 ![Screenshot_9](https://user-images.githubusercontent.com/112021178/199125370-39dbf881-5824-4e16-ad61-2c484d272583.jpg)
 
